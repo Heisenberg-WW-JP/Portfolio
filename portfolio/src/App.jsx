@@ -848,8 +848,8 @@ function Certifications() {
 function Contact() {
   const links = [
     { label: "Email", value: "Parin.Solanki.23co@iitram.ac.in", href: "mailto:Parin.Solanki.23co@iitram.ac.in" },
-    { label: "LinkedIn", value: "linkedin.com/in/ParinSolanki", href: "https://linkedin.com/in/ParinSolanki" },
-    { label: "GitHub", value: "github.com/ParinSolanki", href: "https://github.com/ParinSolanki" },
+    { label: "LinkedIn", value: "linkedin.com/in/ParinSolanki", href: "https://www.linkedin.com/in/parin-solanki-4075aa29a/" },
+    { label: "GitHub", value: "github.com/ParinSolanki", href: "https://github.com/Heisenberg-WW-JP" },
     { label: "Phone", value: "+91 94097 19436", href: "tel:+919409719436" },
   ];
 
